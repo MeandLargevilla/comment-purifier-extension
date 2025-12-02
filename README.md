@@ -34,4 +34,4 @@ This project is built with privacy in mind.
 * All data storage (`chrome.storage`) is local to your browser.
 
 ---
-*Created by [Your Name]*
+*Created by [Undefined Studio]*
