@@ -1,0 +1,21 @@
+{
+ "appName": { "message": "Comment Purifier - Block Toxic & Malicious Comments" },
+  "appDesc": { "message": "Block malicious comments, toxic content, hate speech, and ads on any website. Supports multiple filter modes." },
+  "uiTitle": { "message": "Purifier Settings" },
+  "uiSwitchLabel": { "message": "Extension Status:" },
+  "uiSwitchOn": { "message": "🟢 ON (Running)" },
+  "uiSwitchOff": { "message": "🔴 OFF (Paused)" },
+  "uiModeLabel": { "message": "Filter Intensity:" },
+  "uiModeSuper": { "message": "💥 Super Strong (Hide Comment)" },
+  "uiModeSpace": { "message": "🔥 Strong (Replace with Spaces)" },
+  "uiModeMask": { "message": "🎭 Mask (Replace with ***)" },
+  "uiModeBlur": { "message": "🌫️ Blur (Blur text)" },
+  "uiModeRed": { "message": "👀 Highlight (Red border)" },
+  "uiKeywordLabel": { "message": "Keywords:" },
+  "uiKeywordPlaceholder": { "message": "e.g., spoiler, ads" },
+  "uiNote": { "message": "* Includes built-in list." },
+  "btnSave": { "message": "Save & Apply" },
+  "msgSaved": { "message": "✅ Saved! Refreshing..." },
+  "contentMaskText": { "message": "🛡️ [Filtered] 🛡️" },
+  "contentBlurTitle": { "message": "Content Hidden" }
+}

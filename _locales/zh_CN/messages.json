@@ -1,0 +1,21 @@
+{
+ "appName": { "message": "评论净化器 - 屏蔽恶意评论与广告" },
+  "appDesc": { "message": "自定义屏蔽网页中的恶意评论、辱骂攻击和广告刷屏。支持多种净化模式（高亮/隐藏/空格），适配主流平台。" },
+  "uiTitle": { "message": "评论净化设置" },
+  "uiSwitchLabel": { "message": "插件总开关：" },
+  "uiSwitchOn": { "message": "🟢 已开启 (正在净化)" },
+  "uiSwitchOff": { "message": "🔴 已暂停 (不工作)" },
+  "uiModeLabel": { "message": "选择净化强度：" },
+  "uiModeSuper": { "message": "💥 超强力净化 (隐藏整条评论)" },
+  "uiModeSpace": { "message": "🔥 强力净化 (替换为空格)" },
+  "uiModeMask": { "message": "🎭 温和净化 (替换成 ***)" },
+  "uiModeBlur": { "message": "🌫️ 模糊模式 (模糊显示)" },
+  "uiModeRed": { "message": "👀 仅标注 (画个红框)" },
+  "uiKeywordLabel": { "message": "自定义屏蔽词 (逗号分隔)：" },
+  "uiKeywordPlaceholder": { "message": "例如：剧透, 广告, 某某明星" },
+  "uiNote": { "message": "* 系统已内置基础屏蔽词库，此处为额外补充。" },
+  "btnSave": { "message": "保存设置并刷新" },
+  "msgSaved": { "message": "✅ 设置已生效！页面刷新中..." },
+  "contentMaskText": { "message": "🛡️ [该内容已根据您的设置被过滤] 🛡️" },
+  "contentBlurTitle": { "message": "内容已隐藏" }
+}
