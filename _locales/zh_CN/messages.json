@@ -1,0 +1,28 @@
+{
+  "appName": { "message": "评论净化器" },
+  "appDesc": {
+    "message": "过滤网页中的恶意评论和广告。本地运行，注重隐私。"
+  },
+  "uiTitle": { "message": "设置" },
+  "uiSwitchLabel": { "message": "启用过滤" },
+  "uiSwitchOn": { "message": "开启" },
+  "uiSwitchOff": { "message": "关闭" },
+  "uiCurrentSiteLabel": { "message": "当前网站：" },
+
+  "btnWhitelistOff": { "message": "正在过滤 (点击加入白名单)" },
+  "btnWhitelistOn": { "message": "已加入白名单 (不过滤)" },
+
+  "uiModeLabel": { "message": "过滤模式" },
+  "uiModeSuper": { "message": "隐藏评论" },
+  "uiModeSpace": { "message": "替换为空格" },
+  "uiModeMask": { "message": "替换为 ***" },
+  "uiModeBlur": { "message": "模糊文字" },
+  "uiModeRed": { "message": "红框高亮" },
+  "uiKeywordLabel": { "message": "自定义关键词 (逗号分隔)" },
+  "uiKeywordPlaceholder": { "message": "例如：剧透, 广告" },
+  "uiNote": { "message": "* 已内置基础屏蔽词" },
+  "btnSave": { "message": "保存" },
+  "msgSaved": { "message": "已保存！" },
+  "contentMaskText": { "message": "[已过滤]" },
+  "contentBlurTitle": { "message": "内容已隐藏" }
+}

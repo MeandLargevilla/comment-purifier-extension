@@ -1,0 +1,30 @@
+{
+  "appName": {
+    "message": "Comment Purifier"
+  },
+  "appDesc": {
+    "message": "Filter toxic comments and spam on any website. Privacy-focused, fast and lightweight."
+  },
+  "uiTitle": { "message": "Settings" },
+  "uiSwitchLabel": { "message": "Enable Filter" },
+  "uiSwitchOn": { "message": "ON" },
+  "uiSwitchOff": { "message": "OFF" },
+  "uiCurrentSiteLabel": { "message": "Current Site:" },
+
+  "btnWhitelistOff": { "message": "Filtering (Click to Whitelist)" },
+  "btnWhitelistOn": { "message": "Whitelisted (Not Filtering)" },
+
+  "uiModeLabel": { "message": "Filter Mode" },
+  "uiModeSuper": { "message": "Hide Comment" },
+  "uiModeSpace": { "message": "Replace with Spaces" },
+  "uiModeMask": { "message": "Replace with ***" },
+  "uiModeBlur": { "message": "Blur Text" },
+  "uiModeRed": { "message": "Highlight (Red Border)" },
+  "uiKeywordLabel": { "message": "Custom Keywords" },
+  "uiKeywordPlaceholder": { "message": "e.g. spoiler, ads" },
+  "uiNote": { "message": "* Built-in keywords included" },
+  "btnSave": { "message": "Save" },
+  "msgSaved": { "message": "Saved!" },
+  "contentMaskText": { "message": "[Filtered]" },
+  "contentBlurTitle": { "message": "Content Hidden" }
+}
